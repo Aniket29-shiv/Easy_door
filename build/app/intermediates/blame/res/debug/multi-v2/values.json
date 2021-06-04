@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Internship_code\\source_code_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "F:\\Internship_code\\Easy_door\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\anike\\.gradle\\caches\\transforms-2\\files-2.1\\b608c3d8537f54a7ed8ad86b3bfe3664\\core-1.1.0\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "F:\\Internship_code\\source_code_flutter\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "F:\\Internship_code\\Easy_door\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "F:\\Internship_code\\source_code_flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "F:\\Internship_code\\Easy_door\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

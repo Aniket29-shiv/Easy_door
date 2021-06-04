@@ -3,16 +3,16 @@ import 'package:flutter/material.dart';
 var this_year = DateTime.now().year.toString();
 
 class AppConfig {
-  static String copyright_text = "@ Platina USA " + this_year; //this shows in the splash screen
-  static String app_name = "Platina USA"; //this shows in the splash screen
+  static String copyright_text = "@ Easy Door " + this_year; //this shows in the splash screen
+  static String app_name = "Easy Door"; //this shows in the splash screen
 
   //configure this
   static const bool HTTPS = true;
 
   //configure this
-  static const DOMAIN_PATH = "platinausa.com";
-  //static const DOMAIN_PATH = "demo.activeitzone.com/ecommerce_flutter_demo";
-  //static const DOMAIN_PATH = "adbuild.ae";
+  static const DOMAIN_PATH = "easydoor.in"; //localhost
+  //static const DOMAIN_PATH = "demo.activeitzone.com/ecommerce_flutter_demo"; //inside a folder
+  //static const DOMAIN_PATH = "yobe-shop.com"; // directly inside the public folder
 
   //do not configure these below
   static const String API_ENDPATH = "api/v2";
